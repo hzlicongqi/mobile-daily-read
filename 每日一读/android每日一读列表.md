@@ -359,6 +359,12 @@ android每日一读:  [ Android中实现Activity的启动拦截之----实现360�
 
 * [从Java代码到机器代码：如何编写高度优化的Java程序](http://www.infoq.com/cn/presentations/from-java-code-to-machine-code?utm_campaign=rightbar_v2&utm_source=infoq&utm_medium=presentations_link&utm_content=link_text)    
 这个演讲视频了介绍编译和优化过程，并将通过实际案例来说明：在编写Java代码时，遵循一些简单的规则，即可获得高度优化的、高性能的程序。
+
+>20160518
+
+* [详细分析Java中断机制](http://www.infoq.com/cn/articles/java-interrupt-mechanism)
+讲述了 Java 中断机制的原理，使用场景和捕获中断后处理情况等
+
 ##设计模式相关
 
 >20150918
