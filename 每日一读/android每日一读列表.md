@@ -39,6 +39,11 @@ OkHttp一个很好的特点就是它的缓存机制。在这篇文章走通了Ok
 
 RxJava如何与Retrofit结合
 
+>20160530
+
+* [浅谈浏览器http的缓存机制](http://www.cnblogs.com/vajoy/p/5341664.html)
+
+http缓存控制和资源校验介绍
 
 ##UI使用相关
 
